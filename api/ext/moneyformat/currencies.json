@@ -330,5 +330,10 @@
         "name": "Groestlcoin",
         "divisibility": 8,
         "crypto": true
+    },
+    "PPC": {
+        "name": "Peercoim",
+        "divisibility": 6,
+        "crypto": true
     }
 }
