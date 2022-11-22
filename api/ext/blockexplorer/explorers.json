@@ -45,5 +45,9 @@
     "grs": {
         "mainnet": "https://esplora.groestlcoin.org/tx/{}",
         "testnet": "https://esplora-test.groestlcoin.org/tx/{}"
+    },
+    "ppc": {
+        "mainnet": "https://blockbook.peercoin.net/tx/{}",
+        "testnet": "https://tblockbook.peercoin.net/tx/{}"
     }
 }
